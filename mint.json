@@ -1,7 +1,10 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "Carbon for Unreal Documentation",
-
+"logo": {
+  "dark": "/logo/dark.svg",
+  "light": "/logo/light.svg"
+    },
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#05bfd8",
